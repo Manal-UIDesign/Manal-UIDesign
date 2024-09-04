@@ -7,6 +7,7 @@ Currently learning how to bridge the gap between UX/UI design and front-end deve
 💁‍♀️ ABOUT ME
 - UI Designer @ Musashi AI 
 - Fourth-year UI/UX Design Student at the University of Waterloo!
+- Check out my portfolio: https://manalkhan.webflow.io/
 
 
 👩‍💻 CURRENTLY LEARNING: JavaScript, Swift UI and React 
@@ -19,6 +20,4 @@ Currently learning how to bridge the gap between UX/UI design and front-end deve
 
 <img width="411" alt="Screenshot 2024-09-04 at 4 41 15 AM" src="https://github.com/user-attachments/assets/78c156b6-f59a-4337-b93c-8d72cf5c9a11">
 
-Manal-UIDesign/Manal-UIDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
